@@ -1,0 +1,15 @@
+# Assembly x86_x86-64 Learning
+![Static Badge](https://img.shields.io/badge/Assembly-black?style=plastic&logo=assemblyscript&logoColor=white&logoSize=amg&labelColor=black&color=black) ![Static Badge](https://img.shields.io/badge/code-blue?style=plastic&logo=c&logoColor=white&logoSize=amg&labelColor=blue&color=black) ![Static Badge](https://img.shields.io/badge/Linux-black?style=plastic&logo=linux&logoColor=black&logoSize=amg&labelColor=white&color=black) ![Static Badge](https://img.shields.io/badge/Kali_Linux-black?style=plastic&logo=kalilinux&logoColor=black&logoSize=amg&labelColor=blue&color=black) ![Static Badge](https://img.shields.io/badge/GitBook-black?style=plastic&logo=gitbook&logoColor=white&logoSize=amg&labelColor=black&color=black) ![Static Badge](https://img.shields.io/badge/Wikip%C3%A9dia-black?style=plastic&logo=wikipedia&logoColor=white&logoSize=amg&labelColor=black&color=black)
+
+
+This repository is just for improve my learning about Assembly x86_x86-64 language and integration of C to Assembly.
+
+## Guide that i am using
+The guide that i'm using is the [Aprendendo Assembly](https://mentebinaria.gitbook.io/assembly) that is in Portuguese lang (but nothing prevents you translate the guide for your's lang).
+
+## A bit of Assembly History
+In computer programming, **assembly language**, often referred to simply as **assembly** and commonly abbreviated as **ASM** or **asm**, is any **low-level programming language** with a very strong correspondence between the instructions in the language and the architecture's machine code instructions. Assembly language usually has one statement per machine instruction (1:1), but constants, comments, assembler directives, symbolic labels of, e.g., memory locations, registers, and macros are generally also supported.
+
+The first assembly code in which a language is used to represent machine code instructions is found in **Kathleen Booth and Andrew Donald Booth 1947 work**, Coding for A.R.C.. Assembly code is converted into executable machine code by a utility program referred to as an assembler. The computational step when an assembler is processing a program is called assembly time.
+
+Because assembly depends on the machine code instructions, **each assembly language is specific to a particular computer architecture**. Sometimes there is more than one assembler for the same architecture, and **sometimes an assembler is specific to an operating system or to particular operating systems**. Most assembly languages do not provide specific syntax for operating system calls, and **most assembly languages can be used universally with any operating system**, as the language provides access to all the real capabilities of the processor, upon which all system call mechanisms ultimately rest. In contrast to assembly languages, most high-level programming languages are generally portable across multiple architectures but require interpreting or compiling, much more complicated tasks than assembling. (Wikipedia. s.d. "Assembly language". Accessed October 12, 2024. https://en.wikipedia.org/wiki/Assembly_language.)
